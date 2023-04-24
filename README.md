@@ -9,10 +9,10 @@ Au fost implementate urmatoarele clase:
 - Plane
 - Flight
 - Employee cu doua clase derivate, Pilot si Flight Attendant
-- Airport, care contine 4 vectori: unul de Pilot unul de Flight Attendant , unul de Plane si unul de Flight
+- Airport, care contine 4 vectori: unul de Pilot, unul de Flight Attendant , unul de Plane si unul de Flight
 
 ## Functionalitati
-- Citirea si afisarea de obiecte de tip Plane, Pilot si Flight Attendant
+- Citirea si afisarea obiectelor de tip Plane, Pilot si Flight Attendant
 - Afisarea salariului lunar al angajatilor
 - Afisarea numelui pilotilor
 - Afisarea limbilor vorbite de stewarzi
